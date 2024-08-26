@@ -4,15 +4,16 @@ function NavigationBar() {
   return (
     <nav className="container">
     <div className="logo">
-      <img src="/logo.png.png" alt="logo" />
+      <img src="/logo.png" alt="logo" />
       
     </div>
     
     <ul>
-      <li href="#">Menu</li>
-      <li href="#">Location</li>
-      <li href="#">About</li>
-      <li href="#">Contact</li>
+      <li href="#">Become A Renter</li>
+      <li href="#">Rental Deals</li>
+      <li href="#">How It Works</li>
+      <li href="#">Why Choose Us</li>
+      <li href="#">Contact Us</li>
     </ul>
 
     <button>Login/Register</button>
